@@ -11,4 +11,3 @@ class Backer
   end 
   add_backer
 end
-end
