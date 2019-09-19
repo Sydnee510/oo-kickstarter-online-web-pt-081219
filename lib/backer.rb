@@ -9,5 +9,4 @@ class Backer
     @backed_projects << project
     # add_backer(backer)
   end 
-  add_backer
 end
