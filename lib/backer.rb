@@ -11,3 +11,4 @@ class Backer
   end 
   add_backer(backer)
 end
+end
